@@ -6,6 +6,6 @@ class Person {
     }
 
     greet() { 
-        return 'Hello ' + this.Name; 
+        return 'Welcome ' + this.Name; 
     }
 }
